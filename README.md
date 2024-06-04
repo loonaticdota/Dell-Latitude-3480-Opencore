@@ -57,5 +57,5 @@ You can use Folivora's [BetterTouchTool](https://folivora.ai/downloads) to assig
 - [Apple](https://github.com/apple)
 - [acidhanthera](https://github.com/acidanthera)
 - [corpnewt](https://github.com/corpnewt)
-- [OpenIntelWireless]([https://github.com/corpnewt](https://github.com/OpenIntelWireless))
+- [OpenIntelWireless](https://github.com/OpenIntelWireless)
 - [catwithdaleafhat](https://www.reddit.com/user/catwithdaleafhat/) for free [Andreas Hegenberg's BetterTouchTool](https://folivora.ai/downloads) 
