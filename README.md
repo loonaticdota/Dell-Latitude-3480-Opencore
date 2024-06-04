@@ -55,6 +55,7 @@ You can use Folivora's [BetterTouchTool](https://folivora.ai/downloads) to assig
 
 ## Credits :
 - [Apple](https://github.com/apple)
+- [dortania](https://github.com/dortania)
 - [acidhanthera](https://github.com/acidanthera)
 - [corpnewt](https://github.com/corpnewt)
 - [OpenIntelWireless](https://github.com/OpenIntelWireless)
