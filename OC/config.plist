@@ -1417,7 +1417,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>debug=0x100 keepsyms=1 alcid=11 -igfxnotelemetryload -wegnoegpu -v</string>
+				<string>alcid=11 igfxonln=1 -igfxnotelemetryload -wegnoegpu</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
@@ -1490,13 +1490,13 @@
 			<key>AdviseFeatures</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02010405J9JH4RAD</string>
+			<string>C02818500CDJH4RCB</string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<data>yODrcR9r</data>
+			<data>WIpaQo1L</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
@@ -1504,9 +1504,9 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro15,2</string>
 			<key>SystemSerialNumber</key>
-			<string>C02CD6YKJHCC</string>
+			<string>C02WN0LCJHCC</string>
 			<key>SystemUUID</key>
-			<string>C93EF6EC-C80B-4442-AB68-17C3346E9102</string>
+			<string>3AFEC557-9D48-443E-BD0E-A1653FAA78CA</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
