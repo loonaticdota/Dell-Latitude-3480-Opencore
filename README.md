@@ -58,4 +58,6 @@ You can use Folivora's [BetterTouchTool](https://folivora.ai/downloads) to assig
 - [acidhanthera](https://github.com/acidanthera)
 - [corpnewt](https://github.com/corpnewt)
 - [OpenIntelWireless](https://github.com/OpenIntelWireless)
+- [1Revenger1](https://github.com/1Revenger1/)
+- [Mieze](https://github.com/Mieze/)
 - [catwithdaleafhat](https://www.reddit.com/user/catwithdaleafhat/) for free [Andreas Hegenberg's BetterTouchTool](https://folivora.ai/downloads) 
