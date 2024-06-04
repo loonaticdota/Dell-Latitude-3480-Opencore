@@ -50,3 +50,12 @@ This repository contain [Opencore](https://github.com/acidanthera/OpenCorePkg) c
 You can use Folivora's [BetterTouchTool](https://folivora.ai/downloads) to assign Brightness Key Up / Down to your liking, Previous version is available for FREE which available [here](https://boastr.net/legacy_source_code.zip).
 
 ### I guess that's only it for now 
+
+<br/>
+
+## Credits :
+- [Apple](https://github.com/apple)
+- [acidhanthera](https://github.com/acidanthera)
+- [corpnewt](https://github.com/corpnewt)
+- [OpenIntelWireless]([https://github.com/corpnewt](https://github.com/OpenIntelWireless))
+- [catwithdaleafhat](https://www.reddit.com/user/catwithdaleafhat/) for free [Andreas Hegenberg's BetterTouchTool](https://folivora.ai/downloads) 
