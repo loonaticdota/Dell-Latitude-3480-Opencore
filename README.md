@@ -1,3 +1,6 @@
+![Screenshot 2024-06-04 at 21 31 53](https://github.com/loonaticdota/Dell-Latitude-3480-Hackintosh/assets/30998541/78fcbe52-f53f-4833-a6cc-0c33b3b42ae4)
+<br/>
+<br/>
 # Dell Latitude 3480 Hackintosh
 
 This repository contain [Opencore](https://github.com/acidanthera/OpenCorePkg) configuration specifically for Dell Latitude 3480 to boot [Apple](https://github.com/apple) macOS.
